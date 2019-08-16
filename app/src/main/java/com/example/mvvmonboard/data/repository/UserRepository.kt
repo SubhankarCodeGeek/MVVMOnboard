@@ -2,7 +2,7 @@ package com.example.mvvmonboard.data.repository
 
 import com.example.mvvmonboard.data.db.AppDatabase
 import com.example.mvvmonboard.data.db.entities.User
-import com.example.mvvmonboard.data.network.AuthResponse
+import com.example.mvvmonboard.data.network.response.AuthResponse
 import com.example.mvvmonboard.data.network.MyApi
 import com.example.mvvmonboard.data.network.SafeApiRequest
 

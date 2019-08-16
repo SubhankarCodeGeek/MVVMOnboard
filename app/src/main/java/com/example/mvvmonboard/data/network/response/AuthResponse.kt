@@ -1,4 +1,4 @@
-package com.example.mvvmonboard.data.network
+package com.example.mvvmonboard.data.network.response
 
 import com.example.mvvmonboard.data.db.entities.User
 
