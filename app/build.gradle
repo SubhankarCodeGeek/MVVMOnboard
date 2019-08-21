@@ -78,4 +78,9 @@ dependencies {
     //ThreeTenABP
     implementation 'com.jakewharton.threetenabp:threetenabp:1.2.0'
 
+    //Groupie
+    implementation "com.xwray:groupie:2.5.0"
+    implementation "com.xwray:groupie-kotlin-android-extensions:2.5.0"
+    implementation "com.xwray:groupie-databinding:2.5.0"
+
 }
